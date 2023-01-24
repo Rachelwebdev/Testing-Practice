@@ -1,4 +1,4 @@
-const stringLength = require("./string");
+const stringLength = require("../string");
 
 const runStringCode_1 = () => {
   throw new Error("Please Input your name");

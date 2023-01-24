@@ -1,4 +1,4 @@
-const Calculator = require("./calculator");
+const Calculator = require("../calculator");
 
 const calc = new Calculator(10, 5);
 
